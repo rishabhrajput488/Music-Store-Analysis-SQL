@@ -8,8 +8,7 @@ In this project, we will analyze the data of a music store using SQL. By examini
 Questions to Answer:
 We’ll address the following questions at different levels of complexity:
 
-![image](https://github.com/rishabhrajput488/Music-Store-Analysis-SQL/assets/97242908/1d904816-b905-49d5-8c8d-ab178bd60e68)
-
+![image](https://github.com/rishabhrajput488/Music-Store-Analysis-SQL/assets/97242908/493e71dc-5415-45b2-acad-77ac40ec1d56)
 
 
 Dataset:
