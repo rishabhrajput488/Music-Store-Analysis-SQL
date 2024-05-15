@@ -50,10 +50,9 @@ FROM artist a
 JOIN album al ON a.artist_id =al.artist_id
 JOIN track t on al.album_id = t.album_id
 WHERE track_id in (SELECT track_id 
-					FROM track T
-					JOIN genre g on T.genre_id = g.genre_id
-					WHERE g.name LIKE 'Rock'
-					)
+		   FROM track T
+		   JOIN genre g on T.genre_id = g.genre_id
+		   WHERE g.name LIKE 'Rock')
 GROUP BY a.name
 ORDER BY number_of_tracks DESC
 
