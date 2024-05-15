@@ -3,7 +3,7 @@ Database: MSSQL
 Query Tool: SQL Server Management Studio
 
 Overview:
-In this project, we will analyze the data of a music store using SQL. By examining the sales data, customer data, and product data, we aim to identify patterns, trends, and anomalies. Our goal is to answer a set of questions related to the store’s business performance.
+In this project, I have analyzed the data of a music store using SQL. By examining the sales data, customer data, and product data, we aim to identify patterns, trends, and anomalies. Our goal is to answer a set of questions related to the store’s business performance.
 
 Questions to Answer:
 We’ll address the following questions at different levels of complexity:
